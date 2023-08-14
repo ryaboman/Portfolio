@@ -22,7 +22,7 @@
 - sklearn.ensemble.RandomForestClassifier
 - catboost.CatBoostClassifier
 - sklearn.metrics.roc_auc_score
-- sklearn.metrics.import roc_curve
+- sklearn.metrics.import.roc_curve
 - sklearn.metrics.auc
 
 
