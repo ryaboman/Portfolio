@@ -4,4 +4,4 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Улучшение процесса обогащения золота](https://github.com/ryaboman/Portfolio/tree/main/Customer%20churn%20prediction%20in%20telecom) | Выбор лучшей модели для прогнозирования <br/>оттока клиентов |  python, pandas, numpy, seaborn, sklearn, Pipeline, GridSearchCV, CatBoost |
+| 1.   | [Прогнозирование оттока клиентов](https://github.com/ryaboman/Portfolio/tree/main/Customer%20churn%20prediction%20in%20telecom) | Выбор лучшей модели для прогнозирования <br/>оттока клиентов |  python, pandas, numpy, seaborn, sklearn, Pipeline, GridSearchCV, CatBoost |
